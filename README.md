@@ -3,6 +3,10 @@ The project calculates the mean an standard deviation of a set of n real numbers
 In here the use of a linked list is required thus a custom linked list is implemented.
 GitFlow was used to maintain a well organized workflow within a Git repository. 
 
+## Badges
+
+To see this project deployed in Heroku [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://blooming-ridge-55856.herokuapp.com/inputdata)
+Continous Integration [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/srubianof/AREP-LAB-2)
 ## Getting Started
 The following steps are required in order to get a copy of the project, be able to run it and perform tests.
 ### Prerequisites
